@@ -1,5 +1,5 @@
 game.events.EventSlaver: {
-	Slaver: "Slaver!",
+	Slaver: "Sladsasver!",
 	Question: "A slaver has arrived and is offering his goods. Would you like to make a purchase? He will stay for 4 days to await your payments.",
 	Purchase: "Purchase",
 	Expired: "Expired",
