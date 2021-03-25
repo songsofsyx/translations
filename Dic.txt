@@ -14,7 +14,7 @@ game.faction.FCredits: {
 game.faction.FResources: {
 	In: "in",
 	InDesc: "Yearly mount gained",
-	InProduced: "Produced",
+	Inbaba: "Baba",
 	InProducedD: "How much gained through production, mining and extraction.",
 	InImported: "Imported",
 	InImportedD: "How much gained through imports.",
