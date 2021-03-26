@@ -1,1 +1,2 @@
-somevalue: "hello!",
+somevalue2: "hello!",
+othervalue: "hello2",
